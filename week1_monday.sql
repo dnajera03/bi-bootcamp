@@ -24,13 +24,7 @@ SELECT *
 FROM Customer
 WHERE FirstName like 'a%'
 
--- 6. List all tracks from the "Rock" or "Jazz" genres (hint: you'll need to look up GenreId values first)
-SELECT *
-FROM Genre
 
-SELECT *
-From Track
-WHERE GenreId = 1 OR GenreId = 2
 -- 7. Show all employees who don't have a ReportsTo value (i.e., the top of the hierarchy)
 SELECT *
 FROM Employee
