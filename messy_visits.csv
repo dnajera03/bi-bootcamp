@@ -1,0 +1,11 @@
+visit_id,clinic_code,visit_date,patient_weight_lbs,total_billed,was_emergency,follow_up_needed
+V001, CLN-001 ,2026-01-15,"15.5 lbs","$245.50",FALSE,No
+V002,CLN-002,01/22/2026,"22 lbs","$1,890.00",TRUE,Yes
+V003, CLN-001,2026-02-08,"8.3 lbs","$ 425.75",false,N
+V004,CLN-003 ,February 14 2026,"45.0 lbs","$2,100.50",T,Y
+V005,CLN-002,2026-03-01,"12.5 lbs","$675.25",F,no
+V006, CLN-001 ,3/15/2026,"30 lbs","$1,250.00",1,1
+V007,CLN-003,2026-04-02,"6.8 lbs","$345.50",0,0
+V008, CLN-002,4/18/2026,"55.5 lbs","$3,250.75",TRUE,YES
+V009,CLN-001,2026-05-12,"18.2 lbs","$895.50",FALSE,n
+V010, CLN-003 ,May 25 2026,"24 lbs","$1,495.00",true,yes

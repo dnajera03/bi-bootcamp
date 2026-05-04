@@ -1,0 +1,11 @@
+visit_id,clinic_code,visit_date,patient_weight_lbs,total_billed,was_emergency,follow_up_needed
+V001,CLN-001,1/15/26,15.5 lbs,245.5,FALSE,No
+V002,CLN-002,1/22/26,22 lbs,1890,TRUE,Yes
+V003,CLN-001,2/8/26,8.3 lbs,425.75,FALSE,No
+V004,CLN-003,2/14/26,45.0 lbs,2100.5,TRUE,Yes
+V005,CLN-002,3/1/26,12.5 lbs,675.25,FALSE,No
+V006,CLN-001,3/15/26,30 lbs,1250,TRUE,Yes
+V007,CLN-003,4/2/26,6.8 lbs,345.5,FALSE,No
+V008,CLN-002,4/18/26,55.5 lbs,3250.75,TRUE,Yes
+V009,CLN-001,5/12/26,18.2 lbs,895.5,FALSE,No
+V010,CLN-003,5/25/26,24 lbs,1495,TRUE,Yes
