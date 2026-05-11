@@ -1,0 +1,8 @@
+customer_id,full_name,email,phone,signup_date,status
+C001,John Smith,john.smith@email.com,555-1234,2024-01-15,active
+C002,Jane Doe,jane.doe@email.com,555-5678,2024-02-22,active
+C003,Bob Johnson,bob.j@email.com,555-9012,2024-03-08,inactive
+C004,Alice Williams,alice.w@email.com,555-3456,2024-04-14,active
+C005,Charlie Brown,c.brown@email.com,555-7890,2024-05-01,active
+C006,Diana Davis,diana@email.com,555-2345,2024-06-15,active
+C007,Edward Miller,edward@email.com,555-6789,2024-07-02,inactive
