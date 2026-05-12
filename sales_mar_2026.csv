@@ -1,0 +1,9 @@
+transaction_id,date,clinic,service_type,amount,patient_species
+T018,2026-03-03,Atlanta North,vaccination,75.00,cat
+T019,2026-03-06,Atlanta Midtown,surgery,1350.00,dog
+T020,2026-03-10,Atlanta South,wellness exam,125.00,dog
+T021,2026-03-14,Atlanta North,dental,425.00,cat
+T022,2026-03-17,Atlanta Midtown,vaccination,75.00,dog
+T023,2026-03-21,Atlanta South,emergency,995.00,dog
+T024,2026-03-24,Atlanta North,wellness exam,125.00,cat
+T025,2026-03-28,Atlanta Midtown,wellness exam,125.00,dog
